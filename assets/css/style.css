@@ -27,6 +27,7 @@ main img {
   width: 250px;
   height: auto;
   border-radius: 500px;
+  box-shadow: 10px 10px 10px gray;
 }
 
 ul {
@@ -147,6 +148,7 @@ aside img {
 aside button {
   position: relative;
   right: 100px;
+  background-color: gray;
 }
 
 aside h3 {
@@ -193,4 +195,12 @@ footer {
   nav {
     justify-content: center;
   }
+  .projectbox1 img {
+    width: 330px;
+    height: auto;
+  }
+  .projectbox1 button {
+    position: absolute;
+    left: 30px;
+    }
 }
