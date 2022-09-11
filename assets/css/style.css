@@ -114,20 +114,46 @@ main p {
   text-align: center;
 }
 
+.projectbox1 img {
+  width: auto;
+  height: 250px;
+  border-radius: 0;
+  margin-top: 8px;
+  display: flex;
+}
+
+.projectbox1 button {
+  position: relative;
+  right: 150px;
+  background-color: gray;
+  border: 0;
+}
+
 .projectbox {
   background-color: gray;
-  height: 10rem;
+  height: 15rem;
   width: 25rem;
   border: 5px solid white;
   display: inline;
   text-align: center;
 }
 
-section h3 {
+aside img {
+  width: 345px;
+  height: 180px;
+  border-radius: 0;
+}
+
+aside button {
+  position: relative;
+  right: 100px;
+}
+
+aside h3 {
   text-align: center;
   color: black;
   font-size: 150%;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .contact {
@@ -158,10 +184,6 @@ footer {
   flex-direction: column;
   background-color: black;
   gap: 30px;
-}
-
-@media screen and (max-width:992px) {
-
 }
 
 @media screen and (max-width:768px) {
