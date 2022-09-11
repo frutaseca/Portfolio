@@ -9,5 +9,6 @@ challenge than the last one but nevertheless was a good learning experince and d
 ## Link to Live Webpage
 
 ## Picture of Webpage
-![Screenshot of Webpage]()
-![Screenshot of Webpage]()
+![Screenshot of Webpage](./assets/images/Portfolio.jpg)
+![Screenshot of Webpage](./assets/images/Portfolio2.jpg)
+![Screenshot of Webpage](./assets/images/Portfolio3.jpg)
