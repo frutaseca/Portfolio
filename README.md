@@ -7,6 +7,7 @@ by not having a starter code. We had to create everything from scratch which did
 challenge than the last one but nevertheless was a good learning experince and definitely helped me learn more about HTML and CSS.
 
 ## Link to Live Webpage
+https://frutaseca.github.io/Portfolio/
 
 ## Picture of Webpage
 ![Screenshot of Webpage](./assets/images/Portfolio.jpg)
